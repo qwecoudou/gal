@@ -12,7 +12,7 @@ changeBg:大门开.png -next;
 我握紧手中的枪，踏入院门。;
 setAnimation:enter -target=bg-main -next;
 playEffect:gun.mp3;
-:「砰;
+:「砰」;
 :枪声再度响起，
 但令我诧异的是，;
 我的手中并未扣动扳机。;
