@@ -1,0 +1,5 @@
+Game_name:小径分岔的花园;
+Game_key:12a56d5404cc547;
+Package_name:;
+Title_bgm:s_Title.mp3;
+Title_img:小径分岔的花园封面.png;

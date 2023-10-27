@@ -1,0 +1,24 @@
+changeBg: -next;
+intro:当日|火车站;
+setAnimation:enter -target=bg-main -next;
+changeBg:火车站.png -next;
+:八点四十九分。;
+我一边奔跑着，一边手中查看掏出的怀表。;
+我看见了余准的人影，毫无疑问他上了那班列车。;
+可当我气喘吁吁地跑到月台的时候，列车开动了。;
+命运女神似乎对他青睐有加。;
+不过与其说是青睐，不如说是最后的怜悯。;
+setAnimation:enter -target=bg-main -next;
+changeBg:火车站2.png -next;
+列车员:「先生，有什么事吗？;
+setAnimation:enter -target=bg-main -next;
+changeBg:火车站3.png;
+乔治•马登:「下一班车要到什么时候？;
+列车员:「恐怕要到九点半，先生。;
+setAnimation:enter -target=bg-main -next;
+changeBg:火车站.png -next;
+:下一班要到九点半。;
+:虽然没赶上，但是不要紧。;
+:即使有同伴，已然暴露的他也无法与对方接触。;
+:如此短暂的时间，他又能向谁传达什么样的情报呢。;
+changeScene:第三幕.txt

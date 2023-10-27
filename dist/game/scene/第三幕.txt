@@ -1,0 +1,42 @@
+intro:当日晚十一点|阿什格罗夫;
+setAnimation:enter -target=bg-main -next;
+changeBg:村庄.png -next;
+:太阳早已掩去身影，
+流淌的月光倾洒在脚边的乡间小道上，;
+我却无暇欣赏这样的风景。;
+setAnimation:enter -target=bg-main -next;
+changeBg:大门开.png -next;
+:循着报童提供的路径，
+终于，一座形单影只的中式建筑引入眼帘。;
+高大而腐败的木门已经被推开了，;
+我握紧手中的枪，踏入院门。;
+setAnimation:enter -target=bg-main -next;
+playEffect:gun.mp3;
+:「砰;
+:枪声再度响起，
+但令我诧异的是，;
+我的手中并未扣动扳机。;
+intro:随后，无法理解的场景映入眼帘。|面前的事物有两个：|站立的余准，和汉学家艾伯特倒下的尸体。|          ;
+setAnimation:enter -target=bg-main -next;
+changeBg: -next;
+:他转过身来，;
+:意识到枪声的来源，我谨慎地揣测着他的危险性。;
+:可是奇怪的事情发生了——;
+余准仿佛并没有还击的打算，;
+而是默默丢下枪，举起双手，乖乖束手就擒。;
+setAnimation:enter -target=bg-main -next;
+changeBg:男人的脸.png -next;
+:我仔细端详这个黄种人的脸。;
+:就如同我见过的千千万万张面孔一样————;
+setAnimation:enter -target=bg-main -next;
+changeBg:脸2.png -next;
+:他的脸上，仿佛只有;
+setAnimation:enter -target=bg-main -next;
+changeBg:脸3.png -next;
+:无尽的悔恨，;
+:以及，;
+setAnimation:enter -target=bg-main -next;
+changeBg:脸4.png -next;
+无尽的厌倦。;
+changeScene:第四幕.txt
+
